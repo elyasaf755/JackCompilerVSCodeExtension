@@ -1,7 +1,7 @@
 ## Jack Compiler Extension For Visual Studio Code
 
 ### Installation:<br>
-Download [this](https://drive.google.com/file/d/1Oc8d8oQaLfoTeFfSDIei2hZfYvWZBvlc/view) .rar file, and extract its content into your Jack project's folder.<br>
+Download [this](https://drive.google.com/file/d/1tNN7n-I-4-8r0CG-_JELqLHNmVWI8b0Q/view?usp=sharing) .rar file, and extract its content into your Jack project's folder.<br>
 After that, your Jack project's folder should have **.vscode** folder, like here:<br>
 ![](https://github.com/elyasaf755/JackCompilerVSCodeExtension/blob/master/images/Jack%20project's%20folder.png?raw=true)
 <br><br>
