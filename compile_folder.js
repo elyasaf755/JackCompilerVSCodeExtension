@@ -75,8 +75,6 @@ exports.execute = async (args) => {
     // init s = error, j = 0
     function showErrors(s, j, pattern){
 
-      vscode.window.showInformationMessage(getCurrDir(currFileUrl))
-
       s = s.substring(j)
       var i = s.search(pattern);
       
