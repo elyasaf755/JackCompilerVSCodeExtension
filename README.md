@@ -1,4 +1,4 @@
-# Jack Compiler Extension For Visual Studio Code
+# A Jack Compiler Extension For Visual Studio Code
 A **Save & Compile** compile button for Jack programming in Visual Studio Code
 
 ### Installation:<br>
