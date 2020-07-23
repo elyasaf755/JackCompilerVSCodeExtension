@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Jack Compiler Extension For Visual Studio Code
 
-You can use the [editor on GitHub](https://github.com/elyasaf755/JackCompilerVSCodeExtension/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elyasaf755/JackCompilerVSCodeExtension/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Installation:<br>
+Download [this](https://drive.google.com/file/d/1Oc8d8oQaLfoTeFfSDIei2hZfYvWZBvlc/view) .rar file, and extract its content into your Jack project's folder.<br>
+After that, your Jack project's folder should have **.vscode** folder, like here:<br>
+![](https://github.com/elyasaf755/JackCompilerVSCodeExtension/blob/master/images/Jack%20project's%20folder.png?raw=true)
+<br><br>
+### Usage:<br>
+Open your Jack project using VSCode by clicking **File -> Open Folder...** and then selecting your Jack project's folder.<br>
+After a few seconds of VSCode loading your project, you'll notice a small **Save & Compile** button at the bottom-left corner of the IDE:<br>
+![](https://github.com/elyasaf755/JackCompilerVSCodeExtension/blob/master/images/Save%20&%20Compile.png?raw=true)<br>
+<br>
+Clicking the **Save & Compile** button will save your entire project and will try to compile it. If the compiler encountered errors, it will pop-up error messages. Clicking each error message will redirect you to the problematic line of code in a specific file (problematic - by the compiler's prespective):
+![](https://github.com/elyasaf755/JackCompilerVSCodeExtension/blob/master/images/InkedGo%20To%20File_LI.jpg?raw=true)<br>
+<br>
+If compilation was succesful - the following message will pop-up:<br>
+![](https://github.com/elyasaf755/JackCompilerVSCodeExtension/blob/master/images/Succes.png?raw=true)<br>
+<br>
+<br>
+### Contact:<br>
+If you have any questions, you can send me an email to **elyasaf755@gmail.com**
