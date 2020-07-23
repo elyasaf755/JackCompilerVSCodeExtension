@@ -17,5 +17,10 @@ If compilation was succesful - the following message will pop-up:<br>
 ![](https://github.com/elyasaf755/JackCompilerVSCodeExtension/blob/master/images/Succes.png?raw=true)<br>
 <br>
 <br>
+### Note:<br>
+As for now, you need to repeat these steps for each Jack project you create, if you want to enjoy this functionality.<br>
+A Jack project's folder that dont have this specific **.vscode** folder in it - won't be able to compile in VSCode like described above.
+<br>
+<br>
 ### Contact:<br>
 If you have any questions, you can send me an email to **elyasaf755@gmail.com**
