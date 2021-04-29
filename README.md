@@ -19,8 +19,8 @@ If compilation was succesful - the following message will pop-up:<br>
 <br>
 <br>
 ### Note:<br>
-As for now, you need to repeat these steps for each Jack project you create, if you want to enjoy this functionality.<br>
-A Jack project's folder that dont have this specific **.vscode** folder in it - won't be able to compile in VSCode like described above.
+As for now, you need to repeat these steps for each Jack project you create if you want to enjoy this functionality.<br>
+A Jack project's folder that doesn't have this specific **.vscode** folder in it - won't be able to compile in VSCode like described above.
 <br>
 <br>
 ### Contact:<br>
