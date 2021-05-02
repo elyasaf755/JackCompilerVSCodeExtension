@@ -32,7 +32,7 @@ If compilation was succesful - the following message will pop-up:<br>
 <br>
 ### Notes:<br>
 As for now, you need to repeat these steps for each Jack project you create if you want to enjoy this functionality.<br>
-A Jack project's folder that doesn't have this specific **.vscode** folder in it - won't be able to compile in VSCode like described above.<br>
+A Jack project's folder that doesn't have this specific **.vscode** folder in it - won't be able to be compiled in VS Code like described above.<br>
 <br>
 The [Nand2Tetris - Jack Language Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=amadeann.jack-language-syntax-highlighting) extension is extemely recommended.
 <br>
