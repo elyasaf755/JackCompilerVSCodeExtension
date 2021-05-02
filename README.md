@@ -1,9 +1,13 @@
 # A Jack Compiler Extension For Visual Studio Code
 A **Save & Compile** button for Jack programming in Visual Studio Code
 
+## Prerequisites
+1. Download and install [Power Tools](https://marketplace.visualstudio.com/items?itemName=ego-digital.vscode-powertools) and [macros](https://marketplace.visualstudio.com/items?itemName=geddski.macros) extensions for VS Code.<br>
+2. download and install [Java](https://www.java.com/en/download/manual.jsp). Make sure Java is added to PATH.
+
+
 ### Installation:<br>
-First, download the [Power Tools](https://marketplace.visualstudio.com/items?itemName=ego-digital.vscode-powertools) and [macros](https://marketplace.visualstudio.com/items?itemName=geddski.macros) extensions for VS Code.<br>
-Then, download [this](https://drive.google.com/file/d/1tNN7n-I-4-8r0CG-_JELqLHNmVWI8b0Q/view?usp=sharing) .rar file, and extract its contents into your Jack project's folder.<br>
+Download [this](https://drive.google.com/file/d/1tNN7n-I-4-8r0CG-_JELqLHNmVWI8b0Q/view?usp=sharing) .rar file, and extract its contents into your Jack project's folder.<br>
 After that, your Jack project's folder should have a **.vscode** folder, like shown here:<br>
 ![](https://github.com/elyasaf755/JackCompilerVSCodeExtension/blob/master/images/Jack%20project's%20folder.png?raw=true)
 <br><br>
